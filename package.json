@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "ng build --aot -prod"
+    "postinstall": "ng build"
   },
   "private": true,
   "engine": { "node": "11.6.0", "npm": "6.5.0" },
